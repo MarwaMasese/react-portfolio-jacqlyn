@@ -1,27 +1,27 @@
-const logotext = "JOHN";
+const logotext = "Jacquelyn Menninga";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Jacquelyn Menninga",
+    description: "I’m Jacquelyn Menninga data scientist _ Full stack devloper,currently working in Carlifoni",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Jacquelyn Menninga",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
         third: "I develop mobile apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: " Welcome to Jacquelyn Menninga's Portfolio. Blending creativity with technical expertise, I bring comprehensive web solutions to life. From crafting intuitive front-ends to engineering robust back-ends, I ensure every project is a seamless, interactive experience.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "Welcome to Jacquelyn Menninga's Portfolio. Blending creativity with technical expertise, I bring comprehensive web solutions to life. From crafting intuitive front-ends to engineering robust back-ends, I ensure every project is a seamless, interactive experience.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
+        jobtitle: "Project with Yusuf Gandhi",
+        where: "New York",
         date: "2020",
     },
     {
@@ -59,16 +59,16 @@ const skills = [{
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Front-End",
+        description: " Expertise in HTML5, CSS3, JavaScript, React.js, and Angular.js. Specialize in creating responsive and accessible user interfaces",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Back-End",
+        description: "Proficient in Node.js, Python, Ruby on Rails. Experience in building scalable server-side applications",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Database Management",
+        description: "Skilled in MySQL, MongoDB, and utilizing ORM tools for efficient database handling.",
     },
 ];
 
@@ -136,14 +136,10 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "jacquelynmmeninga@gmail.com",
+    description: "Reach me Here",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
 };
 
 const socialprofils = {
